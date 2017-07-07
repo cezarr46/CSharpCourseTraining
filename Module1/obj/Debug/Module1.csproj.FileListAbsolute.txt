@@ -1,0 +1,6 @@
+c:\users\sezay ismail\documents\visual studio 2015\Projects\edXCourseTraining\Module1\bin\Debug\Module1.exe.config
+c:\users\sezay ismail\documents\visual studio 2015\Projects\edXCourseTraining\Module1\bin\Debug\Module1.exe
+c:\users\sezay ismail\documents\visual studio 2015\Projects\edXCourseTraining\Module1\bin\Debug\Module1.pdb
+c:\users\sezay ismail\documents\visual studio 2015\Projects\edXCourseTraining\Module1\obj\Debug\Module1.csprojResolveAssemblyReference.cache
+c:\users\sezay ismail\documents\visual studio 2015\Projects\edXCourseTraining\Module1\obj\Debug\Module1.exe
+c:\users\sezay ismail\documents\visual studio 2015\Projects\edXCourseTraining\Module1\obj\Debug\Module1.pdb
